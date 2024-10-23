@@ -1,3 +1,1 @@
-allot of the code is ommited due to gpt, poker4 and poker5 are like the original codes
-just use those to fill in all the gaps
-the bot has everything as discussed before
+Due to the length and complexity of the code, certain portions have been omitted. However, you can refer to the Poker4 and Poker5 codebases, which closely mirror the original implementations, to fill in any missing gaps.
